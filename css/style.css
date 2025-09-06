@@ -1,0 +1,26 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.font-orbitron {
+  font-family: 'Orbitron', sans-serif;
+}
+
+.text-neon {
+  color: #39FF14;
+}
+
+.btn-primary {
+  background-color: #1E90FF;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #39FF14;
+  color: #000;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
